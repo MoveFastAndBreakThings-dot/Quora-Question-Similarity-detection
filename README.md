@@ -37,8 +37,6 @@ RepliCheck aims to automate the detection of duplicate questions in various plat
 * **Python**: The primary programming language for data processing and model training.
 * **Pickle**: Used for saving and loading the trained machine learning model.
 * **scikit-learn**: For model training and evaluation.
-* **HTML, CSS**: For creating a customized and visually appealing UI in Streamlit.
-
 ---
 
 ## Installation
@@ -92,16 +90,14 @@ Once the app is running:
 
 Here’s the structure of the repository:
 
-```
-/RepliCheck
+
 │
 ├── app.py                 # Streamlit web app to interact with the model
 ├── helper.py              # Helper functions used in app.py (e.g., text preprocessing)
 ├── model.pkl              # Trained machine learning model (saved with Pickle)
 ├── requirements.txt       # List of Python dependencies
 ├── Component 7-2.png      # Logo image for the web app
-└── README.md              # This README file
-```
+└── README.md              # This README fil
 
 ---
 
