@@ -1,3 +1,5 @@
+<img src="screenshot.png" alt="App Screenshot" width="500"/>
+
 Here's a **detailed and well-structured README** for your project. This README provides a comprehensive overview of your project, including setup instructions, usage, and a detailed explanation of the code.
 
 ---
