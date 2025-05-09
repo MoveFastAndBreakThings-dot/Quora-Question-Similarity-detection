@@ -141,7 +141,20 @@ For **cloud deployment**, follow these steps:
 * **Heroku**: Push the repository to a Heroku app for deployment.
 
 ---
+🔧 Model Improvement Suggestions
+To enhance model accuracy from 80% to 85–90%, the following steps can be implemented:
 
+Switch to deep learning architectures (e.g., RNN, LSTM, Transformers)
+
+Use advanced word embeddings (e.g., Word2Vec, GloVe, contextual embeddings)
+
+Perform additional feature engineering
+
+Combine multiple models (hybrid or ensemble approaches)
+
+Apply advanced text preprocessing (e.g., stemming, lemmatization
+
+---
 ## Contributing
 
 We welcome contributions to improve the project! You can contribute in the following ways:
